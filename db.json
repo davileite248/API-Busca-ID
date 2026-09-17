@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "name": "Monster",
+    "describe": "Volume 1",
+    "style": "Mangá/anime",
+    "price": "R$90,12",
+    "image": "<img src='mangamonster1.jpg' width='150px'>"
+},
+{
+    "id": 2,
+    "name": "Monster",
+    "describe": "Volume 2",
+    "style": "Mangá/anime",
+    "price": "R$1462,40",
+    "image": "<img src='mangamonstervol2.jpg' width='150px'>"
+}
+]
